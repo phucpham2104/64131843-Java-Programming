@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab1_Bai4_Delta {
+public class Bai4 {
 
 	/**
 	 * @param args
